@@ -8,3 +8,7 @@ end
 def toadstool
   puts $status
 end
+
+def all_phrases 
+  mario
+  toadstool 
